@@ -1,0 +1,134 @@
+{
+  "products": [
+      {
+          "id": 1,
+          "tags": ["1KG"],
+          "name": "Brocolli",
+          "photo": "src/assets/broccoli.png",
+          "price": 9.5
+          
+        },
+
+        {
+          "id": 2,
+          "tags": ["1KG"],
+          "name": "Tomato",
+          "photo": "src/assets/tomato.png",
+          "price": 9.9
+          
+        },
+        {
+          "id": 3,
+          "tags": ["1KG"],
+          "name": "Cucumber",
+          "photo": "src/assets/cucumber.png",
+          "price": 9.9
+        
+        },
+        {
+          "id": 4,
+          "tags": ["1KG"],
+          "name": "Beetroot",
+          "photo":"src/assets/beetroot.png",
+          "price": 5.9
+          
+        },
+        {
+          "id": 5,
+          "tags": ["1KG"],
+          "name": "Carrot",
+          "photo": "src/assets/carrots.png",
+          "price": 6.9
+          
+        },
+        {
+          "id": 6,
+          "tags": ["1KG"],
+          "name": "Cauliflower",
+          "photo":"src/assets/cauliflower.png",
+          "price": 8.9
+          
+        },
+        {
+          "id": 7,
+          "tags": ["1KG"],
+          "name": "Beans",
+          "photo":"src/assets/beans.png",
+          "price": 4.9
+          
+        },
+        {
+          "id": 8,
+          "tags": ["1KG"],
+          "name": "Brinjal",
+          "photo": "src/assets/brinjal.png",
+          "price": 7.9
+          
+        },
+        {
+          "id": 9,
+          "tags": ["1KG"],
+          "name": "Capsicum",
+          "photo": "src/assets/capsicum.png",
+          "price": 9.9
+          
+        },
+        {
+          "id": 10,
+          "tags": ["1KG"],
+          "name": "Mushroom",
+          "photo": "src/assets/button-mushroom.png",
+          "price": 9.9
+        
+        },
+        {
+          "id": 11,
+          "tags": ["1KG"],
+          "name": "Potato",
+          "photo": "src/assets/potato.png",
+          "price": 8.9
+          
+        },
+        {
+          "id": 12,
+          "tags": ["1KG"],
+          "name": "Corn",
+          "photo": "src/assets/corn.png",
+          "price": 6.9
+          
+        },
+        {
+          "id": 13,
+          "tags": ["1KG"],
+          "name": "Pumpkin",
+          "photo": "src/assets/pumpkin.png",
+          "price": 9.9
+          
+        },
+        {
+          "id": 14,
+          "tags": ["1KG"],
+          "name": "Onion",
+          "photo": "src/assets/onion.png",
+          "price": 9.9
+          
+        } ,
+        {
+          "id": 15,
+          "tags": ["1KG"],
+          "name": "Apple",
+          "photo": "src/assets/apple.png",
+          "price": 9.9
+          
+        }, 
+        {
+          "id": 15,
+          "tags": ["1KG"],
+          "name": "Banana ",
+          "photo": "src/assets/banana.png",
+          "price": 9.9
+          
+        }  
+      ]
+}
+
